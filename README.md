@@ -9,6 +9,7 @@ The best way to get started with learning machine learning is to implement begin
 - **Emogify Using Deep Learning Model** [click here ](https://github.com/Aj7t/Emogify)
 - **Logistic Regression** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/Loan%20Prediction)
 - **k-nearest neighbors algo** [Click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/KNN%20Implementation)
+- **House-price Prediciton** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/House-price%20Prediciton)
 
 
 
