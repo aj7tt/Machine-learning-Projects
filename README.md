@@ -16,5 +16,6 @@ The best way to get started with learning machine learning is to implement begin
 
 ## Resources 
 
+![image](https://user-images.githubusercontent.com/67835881/117100205-cd86ee00-ad90-11eb-992f-9e7d7e3e558e.png)(www.datacamp.com)
 
 
