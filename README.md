@@ -18,7 +18,7 @@ The best way to get started with learning machine learning is to implement begin
 
 [![image](https://user-images.githubusercontent.com/67835881/117100205-cd86ee00-ad90-11eb-992f-9e7d7e3e558e.png)](https://learn.datacamp.com/)
 <br>
-[![image](https://user-images.githubusercontent.com/67835881/117100671-f0fe6880-ad91-11eb-8aa1-75bd76dd65b2.png)](https://courses.analyticsvidhya.com/)
+[![image](https://user-images.githubusercontent.com/67835881/117100715-11c6be00-ad92-11eb-82da-16b2a7fe53cf.png)](https://courses.analyticsvidhya.com/)
 <br>
 [![image](https://user-images.githubusercontent.com/67835881/117100545-9f55de00-ad91-11eb-9e0f-54fb97d0ca9e.png)](https://www.coursera.org/learn/machine-learning)
 
