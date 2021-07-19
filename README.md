@@ -3,7 +3,14 @@ The best way to get started with learning machine learning is to implement begin
 
 ![image](https://www.vippng.com/png/full/258-2589914_how-to-become-a-machine-learning-engineer-ai.png)
  
- 
+
+
+
+## How to select algorithms for  Machine Learning Problems :: [click here](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg)
+![](https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-select-algorithms/how-to-select-algorithms.png)
+
+<br> <br> 
+
 
 
 # List of ML projects 💌 
@@ -16,10 +23,7 @@ The best way to get started with learning machine learning is to implement begin
  
 
 
-## How to select algorithms for  Machine Learning Problems :: [click here](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg)
-![](https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-select-algorithms/how-to-select-algorithms.png)
-
-
+<br> <br>
 
 ## Resources 🚀🚀
 [![image](https://user-images.githubusercontent.com/67835881/117100205-cd86ee00-ad90-11eb-992f-9e7d7e3e558e.png)](https://learn.datacamp.com/)   [![image](https://user-images.githubusercontent.com/67835881/117104060-193d9580-ad99-11eb-9e0c-78fdbe4ff490.png)](https://www.coursera.org/learn/machine-learning)   [![image](https://user-images.githubusercontent.com/67835881/117100715-11c6be00-ad92-11eb-82da-16b2a7fe53cf.png)](https://courses.analyticsvidhya.com/)    
