@@ -2,14 +2,15 @@
 The best way to get started with learning machine learning is to implement beginner to advanced level machine learning projects 🤖
 
 ![image](https://www.vippng.com/png/full/258-2589914_how-to-become-a-machine-learning-engineer-ai.png)
+<br>
 
 # List of ML projects 💌 
 
-- **simple Linear Regression ML Model** [click here ](https://github.com/Aj7t/Machine-learning-Projects/tree/main/Blogathon)
-- **Emogify Using Deep Learning Model** [click here ](https://github.com/Aj7t/Emogify)
-- **Logistic Regression** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/Loan%20Prediction)
-- **k-nearest neighbors algo** [Click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/KNN%20Implementation)
-- **House-price Prediciton** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/House-price%20Prediciton)
+- [x] **simple Linear Regression ML Model** [click here ](https://github.com/Aj7t/Machine-learning-Projects/tree/main/Blogathon)
+- [x] **Emogify Using Deep Learning Model** [click here ](https://github.com/Aj7t/Emogify)
+- [x] **Logistic Regression** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/Loan%20Prediction)
+- [x] **k-nearest neighbors algo** [Click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/KNN%20Implementation)
+- [x] **House-price Prediciton** [click here](https://github.com/Aj7t/Machine-learning-Projects/tree/main/House-price%20Prediciton)
 
 ## How to select algorithms for  Machine Learning Problems
 ![](https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-select-algorithms/how-to-select-algorithms.png)
