@@ -1,4 +1,4 @@
-# Machine-learning-Projects
+# Machine-learning-Projects 🖥🖥
 The best way to get started with learning machine learning is to implement beginner to advanced level machine learning projects 🤖
 
 ![image](https://www.vippng.com/png/full/258-2589914_how-to-become-a-machine-learning-engineer-ai.png)
@@ -16,10 +16,9 @@ The best way to get started with learning machine learning is to implement begin
  
 
 
-## How to select algorithms for  Machine Learning Problems
+## How to select algorithms for  Machine Learning Problems :: [click here](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg)
 ![](https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-select-algorithms/how-to-select-algorithms.png)
 
-[click here for Algorithms list with thier uses](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg)
 
 
 ## Resources 🚀🚀
