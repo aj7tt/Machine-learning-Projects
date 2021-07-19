@@ -1,7 +1,7 @@
 # Machine-learning-Projects
 The best way to get started with learning machine learning is to implement beginner to advanced level machine learning projects 🤖
 
-![image](https://i.pinimg.com/564x/e8/54/44/e8544455f56ab1d668521bead398f84a.jpg)
+![image](https://www.vippng.com/png/full/258-2589914_how-to-become-a-machine-learning-engineer-ai.png)
 
 # List of ML projects 💌 
 
