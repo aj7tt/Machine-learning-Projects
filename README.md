@@ -4,7 +4,7 @@ The best way to get started with learning machine learning is to implement begin
 ![image](https://www.vippng.com/png/full/258-2589914_how-to-become-a-machine-learning-engineer-ai.png)
  
 
-
+<br> <br> 
 
 ## How to select algorithms for  Machine Learning Problems :: [click here](https://docs.microsoft.com/en-us/azure/machine-learning/media/algorithm-cheat-sheet/machine-learning-algorithm-cheat-sheet.svg)
 ![](https://docs.microsoft.com/en-us/azure/machine-learning/media/how-to-select-algorithms/how-to-select-algorithms.png)
